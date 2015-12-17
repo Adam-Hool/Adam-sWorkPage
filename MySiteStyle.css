@@ -9,6 +9,7 @@ h1 {
 p {
     color:green;
 }
+#awesomeText {font-family: 'Times New Roman', Georgia, Serif;}
 .soft {color:#a8a8a8;}
 .center {text-align:center;}
 .container {margin:0 auto;}

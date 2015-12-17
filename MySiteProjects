@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang ="en">
 <head>
-	<title>
+	<link rel="stylesheet" type="text/css" href="MySiteStyle.css">
+	<title>Projects
 	</title>
 
 </head>
