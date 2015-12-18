@@ -7,9 +7,13 @@ h1 {
 }
 
 p {
-    color:green;
+    color:red;
     font-family:sans-serif;
-	color: #0000FF;
+	/*color: #0000FF;*/
+}
+table {
+	background-color: lightgrey;
+
 }
 div.banner {
 		background-color:#000066;
@@ -17,6 +21,14 @@ div.banner {
 		top: 0px;
 		width:100%;
 	}
+/*<style>
+	.a td
+	{
+	padding-left: 5px;
+	padding-bottom:3px;
+	color: blue;
+	}
+</style>*/
  
 #awesomeText {font-family: 'Times New Roman', Georgia, Serif;}
 .soft {color:#a8a8a8;}
